@@ -5,7 +5,7 @@ layout: default
 
 Testing testing
 
-[Demo if link works](https://ornaka.github.io/writeups).
+[Demo if link works](https://ornaka.github.io/writeups)
 
 There should be whitespace between paragraphs.
 
