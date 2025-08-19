@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Header 1
+# About me 
 
 Testing testing
 
@@ -9,13 +9,9 @@ Testing testing
 
 There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
 ## Header 2
+
+[Demo if link works](https://ornaka.github.io/writeups)
 
 > This is a blockquote following a header.
 >
