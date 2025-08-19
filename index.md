@@ -4,6 +4,7 @@ layout: default
 # About me 
 
 I am a cybersecurity and networking student. This is a portfolio containing some projects I've done outside of my actual studies. Since I have been pretty active in TryHackMe for the past year or so, I've decided to include some writeups as I've done them anyway as part of my studies.
+
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2801425" style='border:none;'></iframe>
 
 ## Header 2
