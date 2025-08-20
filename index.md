@@ -13,7 +13,6 @@ The updating profile badge to my profile
 
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2801425" style='border:none;'></iframe>
 
-
 ## Writeups
 
 [Demo if link works](https://ornaka.github.io/writeups)
