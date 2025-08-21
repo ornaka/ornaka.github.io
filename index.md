@@ -17,4 +17,6 @@ The updating profile badge to my profile
 
 Some write-ups I have done while completing rooms in THM.
 
-[Demo if link works](https://ornaka.github.io/writeups)
+### Splunk related rooms
+
+[PSEclipse](https://ornaka.github.io/writeups)
