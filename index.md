@@ -20,3 +20,4 @@ Some write-ups I have done while completing rooms in THM.
 ### Splunk related rooms
 
 [PSEclipse](https://ornaka.github.io/writeups)
+[Volt Typhoon](https://ornaka.github.io/volt_typhoon)
